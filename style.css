@@ -1,0 +1,14 @@
+
+h1{
+  color: white;
+}
+body{
+  background-color: thistle;
+}
+
+canvas{
+  position: fixed;
+  top: 0;
+  left: 0;
+}
+
